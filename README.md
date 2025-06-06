@@ -1,1 +1,1 @@
-# JavaPractice
+# CodingPractice
